@@ -1,3 +1,6 @@
+---
+layout: central
+---
 MIT License
 
 Copyright &copy; 2022 Ashkan HeidaryFazel
