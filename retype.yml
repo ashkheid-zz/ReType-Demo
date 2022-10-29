@@ -16,6 +16,13 @@ branding:
       text: "#FBC02D"
       background: "#FBC02D33"
 
+search:
+  noResultsFoundMsg: ❗ No results found, please try something else ...
+  placeholder: Search ...
+  hotkeys:
+    - "F1"
+    - "/"
+
 edit:
   repo: "https://github.com/ashkheid/ReType-Demo/"
   base: ./Dev/
