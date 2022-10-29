@@ -1,5 +1,5 @@
-input: .
-output: .retype
+input: ./Dev/
+output: ./Production/
 url: https://ashkheid.github.io/ReType-Demo/
 branding:
   title: Project Name
