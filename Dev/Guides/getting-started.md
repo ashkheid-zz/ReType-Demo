@@ -16,8 +16,6 @@ description: This is a custom description for this page
 
 icon: rocket
 
-image: https://raw.githubusercontent.com/retypeapp/retype/main/static/headers/guides_getting-started.png
-
 title: Getting Started
 
 label: Up and Running
@@ -30,7 +28,7 @@ tags:
 order: +999
 ---
 
-
+![](https://raw.githubusercontent.com/retypeapp/retype/main/static/headers/guides_getting-started.png)
 
 Let's get started
 =================
