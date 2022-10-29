@@ -1,13 +1,13 @@
 input: ./Dev/
 output: ./Production/
 url: https://ashkheid.github.io/ReType-Demo/
-favicon: ./Files/Icons/favicon.ico
+favicon: ./Assets/Icons/favicon.ico
 
 branding:
   title: Sample
   label: Demo
-  logo: ./Files/Icons/bold-dark.svg
-  logoDark: ./Files/Icons/bold-light.svg
+  logo: ./Assets/Icons/bold-dark.svg
+  logoDark: ./Assets/Icons/bold-light.svg
   colors:
     label:
       text: "#FBC02D"
