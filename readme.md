@@ -1,4 +1,4 @@
-# Page title here {#up}
+# Title of the page {#up}
 
 This is a paragraph.
 
