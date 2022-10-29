@@ -1,9 +1,30 @@
 ---
 layout: central
+visibility: hidden
+title: License
 ---
-MIT License
+<style>
+    :root {
+      --blue: #1956AF;
+      --blue-transparent: #1956AF33;
+    }
+    .sample {
+        text-align: center;
+        border-radius: 10px;
+        background-color: var(--blue-transparent);
+        border: 1px solid var(--blue);
+        color: var(--blue);
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
 
-Copyright &copy; 2022 Ashkan HeidaryFazel
+    html.dark .sample {
+      color: #90CAF9;
+    }
+</style>
+
+MIT License
+===========
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,3 +43,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+:::sample
+Copyright &copy; 2022 Ashkan HeidaryFazel
+:::
