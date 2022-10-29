@@ -3,6 +3,9 @@ output: ./Production/
 url: https://ashkheid.github.io/ReType-Demo/
 favicon: ./Assets/Icons/favicon.ico
 
+meta:
+  title: " | A sample page generated with ReType"
+
 branding:
   title: Sample
   label: Demo
