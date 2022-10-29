@@ -1,6 +1,7 @@
 input: ./Dev/
 output: ./Production/
 url: https://ashkheid.github.io/ReType-Demo/
+favicon: ./Files/Icons/favicon.ico
 
 branding:
   title: Sample
