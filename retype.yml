@@ -3,8 +3,14 @@ output: ./Production/
 url: https://ashkheid.github.io/ReType-Demo/
 
 branding:
-  title: Project Name
-  label: Docs
+  title: Sample
+  label: Demo
+  logo: ./Files/Icons/bold-dark.svg
+  logoDark: ./Files/Icons/bold-light.svg
+  colors:
+    label:
+      text: "#FBC02D"
+      background: "#FBC02D33"
 
 links:
 - text: ReType.com
