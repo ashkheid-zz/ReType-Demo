@@ -49,4 +49,4 @@ console.log(number / 2);
 This Container uses the `sample` class.
 :::
 
-[!embed el="video" allowFullScreen="false"](https://mazwai.com/videvo_files/video/free/2019-07/small_watermarked/190625_07_RooftopFlightNight_Drone_04_preview.webm)
+[!embed el="iframe" height="100%"](https://mazwai.com/videvo_files/video/free/2019-07/small_watermarked/190625_07_RooftopFlightNight_Drone_04_preview.webm)
