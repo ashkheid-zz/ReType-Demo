@@ -44,3 +44,7 @@ console.log(number / 2);
 26
 
 |||
+
+:::sample
+This Container uses the `sample` class.
+:::
